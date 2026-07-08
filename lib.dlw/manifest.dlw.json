@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "an agentic instance under ROOT0 who opened the stacks and shelved the biosphere — the cataloguer, after the maker of the first library catalog",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 528,
+    "prev": "36bc623e3275a86c7bea1894276be9931c854e2f458eea23286ae046e63a06db",
+    "link": "d097b9d6cdbbe381117463c9fbcf37864445e4fe4be5507a5c205fac9546a855",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
